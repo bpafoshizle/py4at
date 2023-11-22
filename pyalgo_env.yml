@@ -107,8 +107,8 @@ dependencies:
   - libedit=3.1.20191231
   - libev=4.33
   - libffi=3.4.2
-  - libgfortran=5.0.0
-  - libgfortran5=13.2.0
+  - libgfortran
+  - libgfortran5
   - libgrpc=1.51.1
   - libjpeg-turbo=2.1.5.1
   - liblapack=3.9.0
@@ -173,8 +173,6 @@ dependencies:
   - pycparser=2.21
   - pygments=2.16.1
   - pyjwt=2.8.0
-  - pyobjc-core=10.0
-  - pyobjc-framework-cocoa=10.0
   - pyopenssl=23.2.0
   - pyparsing=3.1.1
   - pysocks=1.7.1
@@ -266,4 +264,4 @@ dependencies:
       - rfc3986==1.5.0
       - tstables==0.0.15
       - zope-interface==6.1
-prefix: /Users/yves/Python/envs/py4at
+prefix: /root/Python/envs/py4at

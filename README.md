@@ -18,3 +18,7 @@ All code and Jupyter Notebooks come without representations or warranties, to th
 
 http://tpq.io | training@tpq.io | http://twitter.com/dyjh
 
+
+## Links
+[Quandl (now data.nasdaq.com)](https://data.nasdaq.com/)
+
